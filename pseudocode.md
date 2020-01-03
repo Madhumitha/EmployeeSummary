@@ -87,4 +87,9 @@ d) Role-specific property (School, link to Github profile, or office number)
 
 11) Use validation to ensure that the information provided is in the proper expected format. 
 
+### Pseudo Code - 
+
+1) Prompt the user function 
+2) Create a base class Employee and child classes Manager, Engineer and Intern
+3) Create a HTML
 
