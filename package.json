@@ -1,0 +1,27 @@
+{
+  "name": "employeesummary",
+  "version": "1.0.0",
+  "description": "An application prompt user for information about team manager and then information about team members. The user can input any number of the team members, and they may be mix of engineers and interns. When the user has completed building team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhumitha/EmployeeSummary.git"
+  },
+  "author": "Madhumitha Prabakaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhumitha/EmployeeSummary/issues"
+  },
+  "homepage": "https://github.com/Madhumitha/EmployeeSummary#readme",
+  "dependencies": {
+    "inquirer": "^7.0.1",
+    "jest": "^24.9.0"
+  }
+}
